@@ -18,14 +18,16 @@
     "@angular/platform-browser": "~13.2.0",
     "@angular/platform-browser-dynamic": "~13.2.0",
     "@angular/router": "~13.2.0",
+    "@faker-js/faker": "^8.4.1",
+    "@types/faker": "^6.6.9",
     "bulma": "^1.0.1",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~13.2.2",
-    "@angular/cli": "~13.2.2",
+    "@angular-devkit/build-angular": "^18.1.0",
+    "@angular/cli": "^18.1.0",
     "@angular/compiler-cli": "~13.2.0",
     "@types/jasmine": "~3.10.0",
     "@types/node": "^12.11.1",

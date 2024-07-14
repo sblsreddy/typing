@@ -5,11 +5,25 @@ How to create a angular project from angular command line ?
 Go to the folder you want to create the project and open node js from the folder
 > ng new typing  ( creating a project named typing )
 > cd typing  ( make sure if all the folders are created)
+> code .  ( the project will open in visual code)
 
 How to add bulma css to existing a angular project from angular command line ?
 -----------------------------------------------------------------------------
 > npm install bulma
 > ng serve
+
+How to deploy Angular app on a server instead of localhost?
+-----------------------------------------------------------
+This is a free service just to show employers about your work.
+open in browser now.sho for documentation and you need an email for account activation
+
+npm install -g vercel
+now login 
+It will ask for eamil and you will get an email for activation, once you activate 
+now ( just run now command, it will ask few questios and deploy)
+After it is deployed it will give you an url
+https://vercel.com/r14141-gmailcom/typing-mlbcxibub-sridhars-projects/a48ee615
+
 
 
 
